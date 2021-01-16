@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🌱 I’m currently learning flask
+
+📫 How to reach me: [mailto:aytac.dursun@gmail.com]
