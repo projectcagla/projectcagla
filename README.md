@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-🌱 I’m currently learning flask
+🌱 
 
 📫 How to reach me: [mail](mailto:aytac.dursun@gmail.com])
 * Twitter: [@caglala](https://twitter.com/caglala)
