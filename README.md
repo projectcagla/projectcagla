@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 🌱 
 
-📫 How to reach me: [mail](mailto:aytac.dursun@gmail.com])
+📫 How to reach me: [mail](mailto:aytac.drsn@gmail.com])
 * Twitter: [@caglala](https://twitter.com/caglala)
 * LinkedIn: [aytacdursun](https://linkedin.com/in/aytacdursun)
 * Medium: [caglala](https://medium.com/@caglala)
+* Web: https://cag.la
